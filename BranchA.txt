@@ -1,3 +1,0 @@
-File added on branchA more text
-BranchA
-BranchB

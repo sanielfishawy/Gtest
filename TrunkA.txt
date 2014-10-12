@@ -1,3 +1,0 @@
-Conflict resolved
-Change made on BranchA
-BranchB
