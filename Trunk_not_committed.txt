@@ -1,0 +1,2 @@
+New file in trunk not committed.
+Change in branch c committed in branch c
